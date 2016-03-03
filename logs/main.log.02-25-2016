@@ -1,0 +1,13 @@
+{"level":"info","message":"App starting.","timestamp":"2016-02-25T18:19:57.640Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-25T18:19:58.218Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-25T18:20:24.067Z"}
+{"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-25T18:20:24.068Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-25T18:20:35.077Z"}
+{"user_name":"Hemanth","user_password":"123","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-25T18:20:35.079Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-25T18:20:35.081Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-25T18:20:58.095Z"}
+{"user_name":"Hemanth","user_password":"1723","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-25T18:20:58.096Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-25T18:20:58.097Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-25T18:21:04.990Z"}
+{"user_name":"Hemanth","user_password":"123","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-25T18:21:04.991Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-25T18:21:04.992Z"}

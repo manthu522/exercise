@@ -1,0 +1,70 @@
+{"level":"info","message":"App starting.","timestamp":"2015-12-19T18:31:59.550Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-19T18:31:59.597Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-19T18:32:05.137Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-19T18:32:05.137Z"}
+{"user_name":"Hemanth","user_email":"manthu522@gmail.com","confirm_email":"manthu522@gmail.com","user_password":"123","confirm_password":"123","user_mobile":"72637383","level":"info","message":"User table, inserting user","timestamp":"2015-12-19T18:32:05.137Z"}
+{"level":"info","message":"App starting.","timestamp":"2015-12-19T18:32:43.991Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-19T18:32:44.038Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-19T18:32:48.395Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-19T18:32:48.395Z"}
+{"user_name":"Hemanth","user_email":"manthu522@gmail.com","confirm_email":"manthu522@gmail.com","user_password":"123","confirm_password":"123","user_mobile":"72637383","level":"info","message":"User table, inserting user","timestamp":"2015-12-19T18:32:48.395Z"}
+{"level":"info","message":"App starting.","timestamp":"2015-12-19T18:35:23.400Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-19T18:35:23.447Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-19T18:35:27.824Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-19T18:35:27.824Z"}
+{"user_name":"Hemanth","user_email":"manthu522@gmail.com","confirm_email":"manthu522@gmail.com","user_password":"123","confirm_password":"123","user_mobile":"72637383","level":"info","message":"User table, inserting user","timestamp":"2015-12-19T18:35:27.824Z"}
+{"level":"info","message":"App starting.","timestamp":"2015-12-19T18:40:21.377Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-19T18:40:21.424Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-19T18:44:21.567Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-19T18:44:21.583Z"}
+{"user_name":"Hemanth","user_email":"manthu522@gmail.com","confirm_email":"manthu522@gmail.com","user_password":"123","confirm_password":"123","user_mobile":"72637383","level":"info","message":"User table, inserting user","timestamp":"2015-12-19T18:44:21.583Z"}
+{"level":"info","message":"App starting.","timestamp":"2015-12-19T18:45:13.950Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-19T18:45:13.997Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-19T18:45:19.645Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-19T18:45:19.645Z"}
+{"user_name":"Hemanth","user_email":"manthu522@gmail.com","confirm_email":"manthu522@gmail.com","user_password":"123","confirm_password":"123","user_mobile":"72637383","level":"info","message":"User table, inserting user","timestamp":"2015-12-19T18:45:19.645Z"}
+{"level":"info","message":"App starting.","timestamp":"2015-12-19T18:46:56.866Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-19T18:46:56.913Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-19T18:47:01.297Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-19T18:47:01.313Z"}
+{"user_name":"Hemanth","user_email":"manthu522@gmail.com","confirm_email":"manthu522@gmail.com","user_password":"123","confirm_password":"123","user_mobile":"72637383","level":"info","message":"User table, inserting user","timestamp":"2015-12-19T18:47:01.313Z"}
+{"level":"info","message":"App starting.","timestamp":"2015-12-19T18:47:37.000Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-19T18:47:37.064Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-19T18:47:43.081Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-19T18:47:43.081Z"}
+{"user_name":"Hemanth","user_email":"manthu522@gmail.com","confirm_email":"manthu522@gmail.com","user_password":"123","confirm_password":"123","user_mobile":"72637383","level":"info","message":"User table, inserting user","timestamp":"2015-12-19T18:47:43.081Z"}
+{"level":"info","message":"App starting.","timestamp":"2015-12-19T18:52:23.694Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-19T18:52:23.741Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-19T18:52:30.599Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-19T18:52:30.599Z"}
+{"user_name":"Hemanth","user_email":"manthu522@gmail.com","confirm_email":"manthu522@gmail.com","user_password":"123","confirm_password":"123","user_mobile":"72637383","level":"info","message":"User table, inserting user","timestamp":"2015-12-19T18:52:30.599Z"}
+{"level":"info","message":"App starting.","timestamp":"2015-12-19T18:57:21.773Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-19T18:57:21.820Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-19T18:57:27.445Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-19T18:57:27.445Z"}
+{"user_name":"Hemanth","user_email":"manthu522@gmail.com","confirm_email":"manthu522@gmail.com","user_password":"123","confirm_password":"123","user_mobile":"72637383","level":"info","message":"User table, inserting user","timestamp":"2015-12-19T18:57:27.445Z"}
+{"level":"info","message":"App starting.","timestamp":"2015-12-19T18:58:13.058Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-19T18:58:13.105Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-19T18:58:18.097Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-19T18:58:18.097Z"}
+{"user_name":"Hemanth","user_email":"manthu522@gmail.com","confirm_email":"manthu522@gmail.com","user_password":"123","confirm_password":"123","user_mobile":"72637383","level":"info","message":"User table, inserting user","timestamp":"2015-12-19T18:58:18.097Z"}
+{"level":"info","message":"App starting.","timestamp":"2015-12-19T18:59:00.046Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-19T18:59:00.088Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-19T18:59:05.828Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-19T18:59:05.828Z"}
+{"user_name":"Hemanth","user_email":"manthu522@gmail.com","confirm_email":"manthu522@gmail.com","user_password":"123","confirm_password":"123","user_mobile":"72637383","level":"info","message":"User table, inserting user","timestamp":"2015-12-19T18:59:05.828Z"}
+{"level":"info","message":"App starting.","timestamp":"2015-12-20T13:53:25.844Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-20T13:53:26.125Z"}
+{"level":"info","message":"App starting.","timestamp":"2015-12-20T13:56:36.482Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-20T13:56:36.529Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-20T13:56:41.600Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-20T13:56:41.601Z"}
+{"user_name":"1","level":"info","message":"User table, inserting user","timestamp":"2015-12-20T13:56:41.602Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-20T13:58:00.334Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-20T13:58:00.335Z"}
+{"user_name":"1","user_password":"33","confirm_password":"33","user_email":"ashok.k@gmail.com","confirm_email":"ashok.k@gmail.com","user_mobile":"23423423","level":"info","message":"User table, inserting user","timestamp":"2015-12-20T13:58:00.336Z"}
+{"level":"info","message":"App starting.","timestamp":"2015-12-20T13:59:17.282Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2015-12-20T13:59:17.329Z"}
+{"level":"info","message":"Registring user - usre contreller","timestamp":"2015-12-20T13:59:23.439Z"}
+{"level":"info","message":"validating Email and Mobile, user controller","timestamp":"2015-12-20T13:59:23.439Z"}
+{"user_name":"1","user_password":"33","confirm_password":"33","user_email":"ashok.k@gmail.com","confirm_email":"ashok.k@gmail.com","user_mobile":"23423423","level":"info","message":"User table, inserting user","timestamp":"2015-12-20T13:59:23.440Z"}

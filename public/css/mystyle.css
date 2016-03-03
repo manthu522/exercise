@@ -1,0 +1,47 @@
+.well-lg{
+    width: 80%;
+    margin: 29px 139px;
+    min-height: 400px !important;
+}
+
+.plane1-header{
+	border-bottom: 1px solid #eee;
+}
+
+.col-xs-5 {
+    border-right: 2px solid #eee;
+}
+
+.right-inner-addon {
+    position: relative;
+}
+.right-inner-addon input {
+    padding-right: 30px;    
+}
+.right-inner-addon i {
+    position: absolute;
+    right: 0px;
+    padding: 10px 12px;
+    pointer-events: none;
+}
+
+.nav-tabs>li {
+    margin-left: 25px;
+}
+.contacts_list {
+    text-decoration: none !important;
+    color: #484646;
+}
+.list-group-item-heading {
+    color: #337ABC;
+}
+
+.phole-icon {
+    color: #337ABC;
+    margin: 1px 183px;
+}
+
+#contacts_scrool{
+	height: 287px;
+    overflow: auto;
+}

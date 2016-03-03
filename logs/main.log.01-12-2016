@@ -1,0 +1,18 @@
+{"level":"info","message":"App starting.","timestamp":"2016-01-12T05:03:02.707Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-01-12T05:03:03.243Z"}
+{"level":"info","message":"Route: /store/select:","timestamp":"2016-01-12T05:10:49.725Z"}
+{"level":"info","message":"Parameters : req.body: {}","timestamp":"2016-01-12T05:10:49.725Z"}
+{"level":"info","message":"Store Controller. getting list of stores","timestamp":"2016-01-12T05:10:49.726Z"}
+{"0":{"brand_id":1,"brand_name":"kfcsss","brand_image":"","admin_id":1,"store_id":0},"1":{"brand_id":2,"brand_name":"mg","brand_image":"","admin_id":1,"store_id":0},"level":"info","message":"brand list :: ","timestamp":"2016-01-12T05:10:49.766Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-01-12T05:12:47.637Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-01-12T05:12:47.793Z"}
+{"level":"info","message":"Route: /store/select:","timestamp":"2016-01-12T05:12:50.586Z"}
+{"level":"info","message":"Parameters : req.body: {}","timestamp":"2016-01-12T05:12:50.586Z"}
+{"level":"info","message":"Store Controller. getting list of stores","timestamp":"2016-01-12T05:12:50.602Z"}
+{"0":{"brand_id":1,"brand_name":"kfcsss","brand_image":"","admin_id":1,"store_id":0},"1":{"brand_id":2,"brand_name":"mg","brand_image":"","admin_id":1,"store_id":0},"level":"info","message":"brand list :: ","timestamp":"2016-01-12T05:12:50.617Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-01-12T10:50:17.226Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-01-12T10:50:17.379Z"}
+{"level":"info","message":"Route: /offer/select:","timestamp":"2016-01-12T10:50:28.790Z"}
+{"level":"info","message":"Parameters : req.body: {}","timestamp":"2016-01-12T10:50:28.790Z"}
+{"level":"info","message":"Offer Controller. getting list of offers","timestamp":"2016-01-12T10:50:28.790Z"}
+{"0":{"deal_id":1,"admin_user_id":1,"deal_name":"KFC","deal_content":"asdasdad","deal_type":1,"deal_brand_id":1,"deal_start_date":"2015-12-04T13:00:00.000Z","deal_end_date":"2015-12-05T13:00:00.000Z","created_date":null,"deal_status":1,"store_id":1,"category_id":1,"coupon_code":"","terms_and _conditions":"","deal_image":"image-339e25342c3f3f954596f48eac70d6f94828eb7e.jpeg"},"level":"info","message":"offers list :: ","timestamp":"2016-01-12T10:50:28.821Z"}

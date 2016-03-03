@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>My App</title>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet"> 
+<link href="css/mystyle.css" rel="stylesheet"> 
+ 
+</head>
+<body>
+  <!-- <div class="page-header">
+    <h1>Address Book</h1>
+  </div>   -->
+<div class="alert alert-success" role="alert"></div>
+  <div class="well well-lg">
+    <div class="plane1-header">
+      <ul class="nav nav-tabs">
+        <li role="presentation"><a href="#">Groups</a></li>
+        <li role="presentation" class="active"><a href="javascript : void(0)" id="all_contacts">All Contacts</a></li>
+        <li role="presentation"><a href="javascript:void(0)" id="new_contact"><b>+</b></a></li>
+      </ul>
+    </div>
+
+    <div class="row">
+      <div class="col-xs-4">
+        <div class="right-inner-addon">
+            <i class="icon-search glyphicon glyphicon-search"></i>
+            <input type="search" class="form-control" id="filter" placeholder="Search" />
+        </div>
+        <div id="contacts_scrool">
+          <table class="table" id="contact_table">
+              <tbody class="searchable" id="contacts">
+                  
+              </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="col-xs-6">
+        <div id="d_name">
+            
+        </div>
+        <table class="table">
+            <tbody id="contact_details">
+                
+            </tbody>
+        </table>
+
+        <ul class="list-group" id='details'>
+          
+        </ul>
+      </div>
+    </div>
+
+  </div>
+  <div id="test"></div>
+
+
+
+<div class="modal fade" tabindex="-1" role="dialog" id="create_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div class="alert alert-danger" id="error_messages" role="alert"></div>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Create Contact</h4>
+      </div>
+      <div class="modal-body">
+        <form class="form-horizontal" id="account-form" onsubmit="return false;">
+            <div class="form-group" id="first_name_group">
+                <label class="col-sm-4 control-label" for="user_first_name">First Name</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control" id="first_name" value="">
+                    <span class="help-danger help-block" id="first_name_danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group" id="last_name_group">
+                <label class="col-sm-4 control-label" for="user_last_name">Last Name</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control" id="last_name" value="">
+                    <span class="help-danger help-block" id="last_name_danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group" id="mobile_group">
+                <label class="col-sm-4 control-label" for="user_last_name">Mobile</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control" id="home_phone" value="">
+                    <span class="help-danger help-block" id="home_phone_danger"></span>
+                </div>
+            </div>
+            <div class="form-group" id="land_line_group">
+                <label class="col-sm-4 control-label" for="user_last_name">Land Line</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control" id="land_phone" value="">
+                    <span class="help-danger help-block" id="land_phone_danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group" id="email_group">
+                <label class="col-sm-4 control-label" for="email">Email</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control" id="user_email" value="">
+                    <span class="help-danger help-block" id="email_danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group" id="address_group">
+                <label class="col-sm-4 control-label" for="address">Address</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control" id="address" value="">
+                    <span class="help-danger help-block" id="address_danger"></span>
+                </div>
+            </div>
+            
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" id="db_save">Save Contact</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+<!-- jQuery--> 
+<script src="js/jquery.min.js"></script> 
+<script src="js/bootstrap.min.js"></script> 
+<script src="js/common.js"></script>
+
+</body>
+</html>

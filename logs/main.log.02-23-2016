@@ -1,0 +1,281 @@
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T06:47:22.266Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T06:47:22.866Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T06:48:52.693Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T06:48:52.695Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T06:48:52.700Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T06:48:52.700Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T06:50:07.379Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T06:50:07.534Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T06:50:15.597Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T06:50:15.598Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T06:50:15.608Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T06:50:15.609Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T06:54:15.810Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T06:54:15.810Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T06:54:15.811Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T06:54:15.811Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T06:55:15.955Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T06:55:16.112Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T06:55:20.033Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T06:55:20.034Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T06:55:20.041Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T06:55:20.041Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T06:55:20.042Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T06:56:04.618Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T06:56:04.773Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T06:56:08.929Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T06:56:08.930Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T06:56:08.935Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T06:56:08.935Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T06:56:08.935Z"}
+{"0":{"user_email":"manthu522@gmail.com"},"level":"info","message":"result ::","timestamp":"2016-02-23T06:56:09.186Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T06:58:08.734Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T06:58:08.925Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T06:58:12.194Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T06:58:12.195Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T06:58:12.199Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T06:58:12.199Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T06:58:12.200Z"}
+{"0":{"user_email":"manthu522@gmail.com"},"level":"info","message":"email_result ::","timestamp":"2016-02-23T06:58:13.507Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T06:59:32.019Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T06:59:32.174Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T06:59:36.154Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T06:59:36.155Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T06:59:36.158Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T06:59:36.159Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T06:59:36.159Z"}
+{"user_email":"manthu522@gmail.com","level":"info","message":"email_result ::","timestamp":"2016-02-23T06:59:38.419Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:00:46.883Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:00:47.037Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T07:00:51.314Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:00:51.315Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T07:00:51.322Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T07:00:51.323Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T07:00:51.324Z"}
+{"user_email":"manthu522@gmail.com","level":"info","message":"email_result ::","timestamp":"2016-02-23T07:00:51.584Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T07:01:39.283Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:01:39.284Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T07:01:39.285Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T07:01:39.285Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T07:01:39.285Z"}
+{"user_email":"manthu522@gmail.com","level":"info","message":"email_result ::","timestamp":"2016-02-23T07:01:39.796Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:02:47.088Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:02:47.253Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T07:02:51.248Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:02:51.250Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T07:02:51.264Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T07:02:51.265Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T07:02:51.266Z"}
+{"user_email":"manthu522@gmail.com","level":"info","message":"email_result ::","timestamp":"2016-02-23T07:02:51.517Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:03:31.019Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:03:31.176Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T07:03:34.939Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:03:34.940Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T07:03:34.944Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T07:03:34.945Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T07:03:34.946Z"}
+{"user_email":"manthu522@gmail.com","level":"info","message":"email_result ::","timestamp":"2016-02-23T07:03:36.824Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:11:26.058Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:11:26.218Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T07:11:31.458Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:11:31.460Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T07:11:31.467Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T07:11:31.467Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T07:11:31.469Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:12:21.966Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:12:22.155Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T07:12:25.634Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:12:25.637Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T07:12:25.653Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T07:12:25.654Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T07:12:25.657Z"}
+{"level":"info","message":"email_result :: undefined","timestamp":"2016-02-23T07:12:25.676Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:13:48.210Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:13:48.367Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T07:13:52.014Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:13:52.016Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T07:13:52.023Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T07:13:52.024Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T07:13:52.025Z"}
+{"level":"info","message":"email_result :: undefined","timestamp":"2016-02-23T07:13:52.051Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:17:00.654Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:17:00.818Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T07:17:04.239Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:17:04.241Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T07:17:04.245Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T07:17:04.245Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T07:17:04.246Z"}
+{"level":"info","message":"email_result :: undefined","timestamp":"2016-02-23T07:17:04.263Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:18:32.075Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:18:32.233Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T07:18:36.612Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:18:36.614Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T07:18:36.619Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T07:18:36.620Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T07:18:36.620Z"}
+{"level":"info","message":"email_result :: undefined","timestamp":"2016-02-23T07:18:36.637Z"}
+{"level":"info","message":"User created with id ","timestamp":"2016-02-23T07:18:36.993Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:22:39.983Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:22:40.147Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T07:22:43.987Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:22:43.988Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T07:22:43.994Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T07:22:43.996Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T07:22:43.998Z"}
+{"level":"info","message":"email_result :: undefined","timestamp":"2016-02-23T07:22:44.014Z"}
+{"level":"info","message":"User created with id ","timestamp":"2016-02-23T07:22:44.556Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:25:08.382Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:25:08.540Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T07:25:11.718Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:25:11.721Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T07:25:11.732Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T07:25:11.733Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T07:25:11.734Z"}
+{"level":"info","message":"email_result :: undefined","timestamp":"2016-02-23T07:25:11.750Z"}
+{"level":"info","message":"User created with id ","timestamp":"2016-02-23T07:25:12.283Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:26:16.348Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:26:16.502Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T07:26:20.497Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:26:20.498Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T07:26:20.502Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T07:26:20.503Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T07:26:20.503Z"}
+{"level":"info","message":"email_result :: undefined","timestamp":"2016-02-23T07:26:20.521Z"}
+{"level":"info","message":"User created with id ","timestamp":"2016-02-23T07:26:21.059Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:28:08.415Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:28:08.571Z"}
+{"level":"info","message":"Route: /user/register:","timestamp":"2016-02-23T07:28:12.193Z"}
+{"user_name":"Hemanth","user_password":"123","user_email":"manthu522@gmail.com","user_profile_pic":"abc.com/pic1","user_contact":"786343747","level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:28:12.198Z"}
+{"level":"info","message":"Controller: executing registerUser() ","timestamp":"2016-02-23T07:28:12.205Z"}
+{"level":"info","message":"Table: executing insertUser() ","timestamp":"2016-02-23T07:28:12.206Z"}
+{"level":"info","message":"where user_email = ? and is_deleted = 0","timestamp":"2016-02-23T07:28:12.206Z"}
+{"level":"info","message":"email_result :: undefined","timestamp":"2016-02-23T07:28:12.223Z"}
+{"fieldCount":0,"affectedRows":1,"insertId":11,"serverStatus":2,"warningCount":0,"message":"User created with id ","protocol41":true,"changedRows":0,"level":"info","timestamp":"2016-02-23T07:28:12.809Z"}
+{"level":"info","message":"Controller: executing Sending test email","timestamp":"2016-02-23T07:28:12.809Z"}
+{"level":"info","message":"Sending email to ::manthu522@gmail.com","timestamp":"2016-02-23T07:28:17.005Z"}
+{"accepted":["manthu522@gmail.com"],"rejected":[],"response":"250 Ok: queued as D_6XPVcCQF6lTn_XZNfjRg","envelope":{"from":"support@rogo.com","to":["manthu522@gmail.com"]},"messageId":"1456212496251-df4ecc47-66171365-4dfa37a9@rogo.com","level":"info","message":"Sending email result ::","timestamp":"2016-02-23T07:28:17.006Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:49:46.239Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:49:46.398Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:53:59.061Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:53:59.221Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:55:50.270Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:55:50.423Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:57:41.285Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:57:41.441Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T07:57:44.255Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:57:44.256Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T07:57:44.261Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:58:35.926Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:58:36.082Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T07:58:39.720Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:58:39.721Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T07:58:39.725Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T07:59:12.499Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T07:59:12.652Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T07:59:16.721Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T07:59:16.721Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T07:59:16.724Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:00:53.267Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:00:53.424Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T08:00:56.809Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T08:00:56.812Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T08:00:56.822Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:06:18.794Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:06:18.951Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T08:06:22.521Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T08:06:22.522Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T08:06:22.528Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:09:55.041Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:09:55.201Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T08:09:58.988Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T08:09:58.989Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T08:09:58.994Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:10:28.377Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:10:28.542Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:10:36.473Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:10:36.646Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T08:10:39.708Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T08:10:39.709Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T08:10:39.712Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:11:31.155Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:11:31.308Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T08:11:34.750Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T08:11:34.750Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T08:11:34.755Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:15:17.537Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:15:17.694Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T08:15:22.392Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T08:15:22.394Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T08:15:22.406Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:17:53.324Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:17:53.485Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:19:47.531Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:19:47.696Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:20:37.530Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:20:37.744Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:21:02.478Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:21:02.638Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:22:04.476Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:22:04.634Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:22:45.554Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:22:45.707Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:23:36.629Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:23:36.781Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:24:09.494Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:24:09.647Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:24:45.216Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:24:45.377Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:25:57.889Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:25:58.047Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T08:28:09.064Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T08:28:09.227Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T09:09:15.866Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T09:09:16.033Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T09:09:41.500Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T09:09:41.502Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T09:09:41.513Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T09:11:04.186Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T09:11:04.343Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T09:11:08.255Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T09:11:08.255Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T09:11:08.259Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T09:12:35.368Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T09:12:35.526Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T09:12:38.915Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T09:12:38.916Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T09:12:38.920Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T09:13:31.905Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T09:13:32.116Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T09:13:34.983Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T09:13:34.984Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T09:13:34.988Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T09:23:08.228Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T09:23:08.384Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T09:23:13.573Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T09:23:13.573Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T09:23:13.576Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T09:24:37.925Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T09:24:38.160Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T09:24:41.449Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T09:24:41.451Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T09:24:41.456Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T09:25:00.757Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T09:25:00.916Z"}
+{"level":"info","message":"Route: /user/sign_in:","timestamp":"2016-02-23T09:25:04.127Z"}
+{"user_name":"Hemanth","user_password":"123","user_id":11,"level":"info","message":"Parameters : req.body: ","timestamp":"2016-02-23T09:25:04.129Z"}
+{"level":"info","message":"Controller: executing signIn() ","timestamp":"2016-02-23T09:25:04.142Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T09:26:56.197Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T09:26:56.352Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T09:27:37.160Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T09:27:37.319Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T09:28:00.128Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T09:28:00.284Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T09:28:36.500Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T09:28:36.658Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T09:30:32.331Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T09:30:32.482Z"}
+{"level":"info","message":"Route: /category/select:","timestamp":"2016-02-23T09:30:35.816Z"}
+{"level":"info","message":"Parameters : req.body: {\"stoken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMSwidXNlcl9uYW1lIjoiSGVtYW50aCIsInVzZXJfcGFzc3dvcmQiOiIkMmEkMTAkd2tDRDJXc21QbGJNTXRwLnBERjBMLjBUWHFzQ3MuSkJ6eVVKclZidFY2Z0Q4N1U5Z0ZVV08iLCJ1c2VyX2VtYWlsIjoibWFudGh1NTIyQGdtYWlsLmNvbSIsInVzZXJfcHJvZmlsZV9waWMiOiJhYmMuY29tL3BpYzEiLCJ1c2VyX2NvbnRhY3QiOiI3ODYzNDM3NDciLCJpc19lbWFpbF9jb25maXJtZWQiOjEsInVzZXJfZW1haWxfY29uZmlybWF0aW9uX2NvZGUiOiIyNjg3MmQ2MDQ3ZDMxZTgzZjc2MTFiOWU4OGZlMDUyMCIsImlzX2RlbGV0ZWQiOjAsImNyZWF0ZWRfZHRpbWUiOiIyMDE2LTAyLTIzVDA3OjI4OjEyLjAwMFoiLCJ1cGRhdGVkX2R0aW1lIjoiMjAxNi0wMi0yM1QwNzoyODoxMi4wMDBaIiwiaWF0IjoxNDU2MjE5NTA0LCJleHAiOjE0NTYyMjA5NDR9.7R9FOtulcGpVWYaHpVDGEvL56oWj9QsR1x_9a0S9GNs\"}","timestamp":"2016-02-23T09:30:35.817Z"}
+{"level":"info","message":"Controller, Category. getting list of categories","timestamp":"2016-02-23T09:30:35.818Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-02-23T12:02:30.507Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-02-23T12:02:30.669Z"}

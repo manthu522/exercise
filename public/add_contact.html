@@ -1,0 +1,66 @@
+
+<div class="modal fade" tabindex="-1" role="dialog" id="create_modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Create Contact</h4>
+      </div>
+      <div class="modal-body">
+        <form class="form-horizontal" id="account-form" onsubmit="return false;">
+            <div class="form-group" id="first_name_group">
+                <label class="col-sm-4 control-label" for="user_first_name">First Name</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control" id="first_name" value="">
+                    <span class="help-danger help-block" id="first_name_danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group" id="last_name_group">
+                <label class="col-sm-4 control-label" for="user_last_name">Last Name</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control" id="last_name" value="">
+                    <span class="help-danger help-block" id="last_name_danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group" id="mobile_group">
+                <label class="col-sm-4 control-label" for="user_last_name">Mobile</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control" id="home_phone" value="">
+                    <span class="help-danger help-block" id="home_phone_danger"></span>
+                </div>
+            </div>
+            <div class="form-group" id="land_line_group">
+                <label class="col-sm-4 control-label" for="user_last_name">Land Line</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control" id="land_phone" value="">
+                    <span class="help-danger help-block" id="land_phone_danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group" id="email_group">
+                <label class="col-sm-4 control-label" for="email">Email</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control" id="user_email" value="">
+                    <span class="help-danger help-block" id="email_danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group" id="address_group">
+                <label class="col-sm-4 control-label" for="address">Address</label>
+                <div class="col-sm-4">
+                    <input type="text" class="form-control" id="address" value="">
+                    <span class="help-danger help-block" id="address_danger"></span>
+                </div>
+            </div>
+            
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" id="db_save">Save Contact</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

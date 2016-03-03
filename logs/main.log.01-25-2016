@@ -1,0 +1,24 @@
+{"level":"info","message":"App starting.","timestamp":"2016-01-25T10:43:58.876Z"}
+{"level":"info","message":"Application is running: http://128.199.136.254:9522","timestamp":"2016-01-25T10:43:59.329Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-01-25T10:46:35.576Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-01-25T10:46:35.732Z"}
+{"level":"info","message":"Route: /user/select:","timestamp":"2016-01-25T10:46:52.465Z"}
+{"level":"info","message":"Parameters : req.params: {\"user_id\":\"8\"}","timestamp":"2016-01-25T10:46:52.465Z"}
+{"level":"info","message":"Controller: executing getUser() ","timestamp":"2016-01-25T10:46:52.511Z"}
+{"level":"info","message":"Table: executing getUser() ","timestamp":"2016-01-25T10:46:52.511Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-01-25T10:47:24.509Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-01-25T10:47:24.665Z"}
+{"level":"info","message":"Route: /user/select:","timestamp":"2016-01-25T10:47:29.217Z"}
+{"level":"info","message":"Parameters : req.params: {\"user_id\":\"8\"}","timestamp":"2016-01-25T10:47:29.217Z"}
+{"level":"info","message":"Controller: executing getUser() ","timestamp":"2016-01-25T10:47:29.217Z"}
+{"level":"info","message":"Table: executing getUser() ","timestamp":"2016-01-25T10:47:29.217Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-01-25T10:48:11.527Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-01-25T10:48:11.683Z"}
+{"level":"info","message":"Route: /user/select:","timestamp":"2016-01-25T10:48:15.333Z"}
+{"level":"info","message":"Parameters : req.params: {\"user_id\":\"8\"}","timestamp":"2016-01-25T10:48:15.333Z"}
+{"level":"info","message":"Controller: executing getUser() ","timestamp":"2016-01-25T10:48:15.333Z"}
+{"level":"info","message":"Table: executing getUser() ","timestamp":"2016-01-25T10:48:15.333Z"}
+{"level":"info","message":"Route: /user/forgot-password/:email","timestamp":"2016-01-25T10:48:48.499Z"}
+{"level":"info","message":"Parameters : req.params : {\"user_email\":\"manthu522@gmail.com\"}","timestamp":"2016-01-25T10:48:48.499Z"}
+{"level":"info","message":"Controller: executing forgotPassword() ","timestamp":"2016-01-25T10:48:48.515Z"}
+{"level":"info","message":"Table: executing getUserPasswordByEmail() ","timestamp":"2016-01-25T10:48:48.515Z"}

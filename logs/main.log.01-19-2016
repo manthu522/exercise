@@ -1,0 +1,49 @@
+{"level":"info","message":"App starting.","timestamp":"2016-01-19T14:06:30.014Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-01-19T14:06:30.595Z"}
+{"level":"info","message":"Route: /offer/select:","timestamp":"2016-01-19T14:06:36.601Z"}
+{"level":"info","message":"Parameters : req.body: {}","timestamp":"2016-01-19T14:06:36.601Z"}
+{"level":"info","message":"Offer Controller. getting list of offers using filter","timestamp":"2016-01-19T14:06:36.601Z"}
+{"code":"ER_PARSE_ERROR","errno":1064,"sqlState":"42000","index":0,"level":"info","timestamp":"2016-01-19T14:06:36.701Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-01-19T14:07:59.032Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-01-19T14:07:59.185Z"}
+{"level":"info","message":"Route: /offer/select:","timestamp":"2016-01-19T14:08:04.801Z"}
+{"level":"info","message":"Parameters : req.body: {}","timestamp":"2016-01-19T14:08:04.801Z"}
+{"level":"info","message":"Offer Controller. getting list of offers using filter","timestamp":"2016-01-19T14:08:04.805Z"}
+{"code":"ER_PARSE_ERROR","errno":1064,"sqlState":"42000","index":0,"level":"info","timestamp":"2016-01-19T14:08:04.875Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-01-19T14:08:37.752Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-01-19T14:08:37.908Z"}
+{"level":"info","message":"Route: /offer/select:","timestamp":"2016-01-19T14:08:41.891Z"}
+{"level":"info","message":"Parameters : req.body: {}","timestamp":"2016-01-19T14:08:41.891Z"}
+{"level":"info","message":"Offer Controller. getting list of offers using filter","timestamp":"2016-01-19T14:08:41.891Z"}
+{"code":"ER_NON_UNIQ_ERROR","errno":1052,"sqlState":"23000","index":0,"level":"info","timestamp":"2016-01-19T14:08:41.932Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-01-19T14:11:40.110Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-01-19T14:11:40.273Z"}
+{"level":"info","message":"Route: /offer/select:","timestamp":"2016-01-19T14:11:46.190Z"}
+{"level":"info","message":"Parameters : req.body: {}","timestamp":"2016-01-19T14:11:46.190Z"}
+{"level":"info","message":"Offer Controller. getting list of offers using filter","timestamp":"2016-01-19T14:11:46.190Z"}
+{"level":"info","message":"where store_location_id = ?  and  deal_status = 1 ","timestamp":"2016-01-19T14:11:46.190Z"}
+{"code":"ER_NON_UNIQ_ERROR","errno":1052,"sqlState":"23000","index":0,"level":"info","timestamp":"2016-01-19T14:11:46.226Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-01-19T14:15:43.457Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-01-19T14:15:43.611Z"}
+{"level":"info","message":"Route: /offer/select:","timestamp":"2016-01-19T14:15:48.776Z"}
+{"level":"info","message":"Parameters : req.body: {}","timestamp":"2016-01-19T14:15:48.776Z"}
+{"level":"info","message":"Offer Controller. getting list of offers using filter","timestamp":"2016-01-19T14:15:48.776Z"}
+{"level":"info","message":"where sl.store_location_id = ?  and  d.deal_status = 1 ","timestamp":"2016-01-19T14:15:48.776Z"}
+{"0":{"deal_id":1,"admin_user_id":1,"deal_name":"KFC","deal_content":"asdasdad","deal_type":"Discount","deal_brand_id":1,"deal_start_date":"2015-12-04T13:00:00.000Z","deal_end_date":"2015-12-05T13:00:00.000Z","created_date":null,"deal_status":1,"store_id":1,"category_id":1,"coupon_code":"","terms_and _conditions":"","deal_image":"image-339e25342c3f3f954596f48eac70d6f94828eb7e.jpeg","store_location_id":1,"store_name":"KFC","store_admin_id":1,"store_type":1,"store_address":"Bilekahallli","city_name":"Hyderabad","state_name":"Telangana","brand_name":"kfcsss","brand_image":"","category_name":"Food","category_image":"TestCategory"},"level":"info","message":"Result of Offer filter :: ","timestamp":"2016-01-19T14:15:48.911Z"}
+{"level":"info","message":"Route: /offer/select:","timestamp":"2016-01-19T14:16:58.782Z"}
+{"level":"info","message":"Parameters : req.body: {}","timestamp":"2016-01-19T14:16:58.782Z"}
+{"level":"info","message":"Offer Controller. getting list of offers using filter","timestamp":"2016-01-19T14:16:58.782Z"}
+{"level":"info","message":"where d.deal_brand_id = ?  and sl.store_location_id = ?  and d.deal_type = ?  and  d.deal_status = 1 ","timestamp":"2016-01-19T14:16:58.782Z"}
+{"0":{"deal_id":1,"admin_user_id":1,"deal_name":"KFC","deal_content":"asdasdad","deal_type":"Discount","deal_brand_id":1,"deal_start_date":"2015-12-04T13:00:00.000Z","deal_end_date":"2015-12-05T13:00:00.000Z","created_date":null,"deal_status":1,"store_id":1,"category_id":1,"coupon_code":"","terms_and _conditions":"","deal_image":"image-339e25342c3f3f954596f48eac70d6f94828eb7e.jpeg","store_location_id":1,"store_name":"KFC","store_admin_id":1,"store_type":1,"store_address":"Bilekahallli","city_name":"Hyderabad","state_name":"Telangana","brand_name":"kfcsss","brand_image":"","category_name":"Food","category_image":"TestCategory"},"level":"info","message":"Result of Offer filter :: ","timestamp":"2016-01-19T14:16:58.897Z"}
+{"level":"info","message":"App starting.","timestamp":"2016-01-19T14:19:10.639Z"}
+{"level":"info","message":"Application is running: http://localhost:9522","timestamp":"2016-01-19T14:19:10.792Z"}
+{"level":"info","message":"Route: /offer/select:","timestamp":"2016-01-19T14:19:15.393Z"}
+{"level":"info","message":"Parameters : req.body: {}","timestamp":"2016-01-19T14:19:15.393Z"}
+{"level":"info","message":"Offer Controller. getting list of offers using filter","timestamp":"2016-01-19T14:19:15.409Z"}
+{"level":"info","message":"where d.deal_brand_id = ?  and sl.store_location_id = ?  and d.deal_type = ?  and  d.deal_status = 1 ","timestamp":"2016-01-19T14:19:15.409Z"}
+{"0":{"deal_id":1,"admin_user_id":1,"deal_name":"KFC","deal_content":"asdasdad","deal_type":"Discount","deal_brand_id":1,"deal_start_date":"2015-12-04T13:00:00.000Z","deal_end_date":"2015-12-05T13:00:00.000Z","created_date":null,"deal_status":1,"store_id":1,"category_id":1,"coupon_code":"","terms_and _conditions":"","deal_image":"image-339e25342c3f3f954596f48eac70d6f94828eb7e.jpeg","store_location_id":1,"store_name":"KFC","store_admin_id":1,"store_type":1,"store_address":"Bilekahallli","city_name":"Hyderabad","state_name":"Telangana","brand_name":"kfcsss","brand_image":"","category_name":"Food","category_image":"TestCategory"},"level":"info","message":"Result of Offer filter :: ","timestamp":"2016-01-19T14:19:15.493Z"}
+{"level":"info","message":"Route: /offer/select:","timestamp":"2016-01-19T14:19:52.057Z"}
+{"level":"info","message":"Parameters : req.body: {}","timestamp":"2016-01-19T14:19:52.057Z"}
+{"level":"info","message":"Offer Controller. getting list of offers using filter","timestamp":"2016-01-19T14:19:52.057Z"}
+{"level":"info","message":"where d.deal_brand_id = ?  and sl.store_location_id = ?  and d.deal_type = ?  and d.category_id = ?  and  d.deal_status = 1 ","timestamp":"2016-01-19T14:19:52.120Z"}
+{"0":{"deal_id":1,"admin_user_id":1,"deal_name":"KFC","deal_content":"asdasdad","deal_type":"Discount","deal_brand_id":1,"deal_start_date":"2015-12-04T13:00:00.000Z","deal_end_date":"2015-12-05T13:00:00.000Z","created_date":null,"deal_status":1,"store_id":1,"category_id":1,"coupon_code":"","terms_and _conditions":"","deal_image":"image-339e25342c3f3f954596f48eac70d6f94828eb7e.jpeg","store_location_id":1,"store_name":"KFC","store_admin_id":1,"store_type":1,"store_address":"Bilekahallli","city_name":"Hyderabad","state_name":"Telangana","brand_name":"kfcsss","brand_image":"","category_name":"Food","category_image":"TestCategory"},"level":"info","message":"Result of Offer filter :: ","timestamp":"2016-01-19T14:19:52.135Z"}
