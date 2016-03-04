@@ -45,3 +45,6 @@
 	height: 287px;
     overflow: auto;
 }
+#edit_link{
+    float: right;
+}
