@@ -5,7 +5,7 @@ var contact = require("../controllers/contact");
 var validateHelper = require("../utility/ValidateHelper");
 
 /* Create Contact */
-router.post('/contact/create', function(req, res, next) {
+router.post('/contact', function(req, res, next) {
 
 	logger.info("Route: /contact/create:");
 	logger.info("Parameters : req.body: " , req.body);
@@ -35,7 +35,7 @@ router.post('/contact/create', function(req, res, next) {
 }, contact.createContact);
 
 /* Update Contact */
-router.put('/contact/update', function(req, res, next) {
+router.put('/contact', function(req, res, next) {
 
 	logger.info("Route: /contact/update:");
 	logger.info("Parameters : req.body: " , req.body);
@@ -65,7 +65,7 @@ router.put('/contact/update', function(req, res, next) {
 
 }, contact.updateContact);
 
-router.get('/contact/select', function(req, res, next) {
+router.get('/contact', function(req, res, next) {
 
 	logger.info("Route: /user/select:");
 	logger.info("Parameters : req.params: " + JSON.stringify(req.params));
@@ -73,5 +73,14 @@ router.get('/contact/select', function(req, res, next) {
 	next();
 
 }, contact.listContacts);
+
+router.delete('/contact', function(req, res, next) {
+
+	logger.info("Route: Delete Contact");
+	logger.info("Parameters : req.params: " + JSON.stringify(req.params));
+
+	next();
+
+}, contact.deleteContact);
 
 module.exports = router;

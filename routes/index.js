@@ -2,7 +2,8 @@ module.exports = function(app) {
 
 	//contact routes
 	var contact = require('./contact');
-	app.post('/contact/create', contact);
-	app.get('/contact/select', contact);
-	app.put('/contact/update', contact);
+	app.post('/contact', contact);
+	app.get('/contact', contact);
+	app.put('/contact', contact);
+	app.delete('/contact', contact);
 };
