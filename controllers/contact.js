@@ -70,7 +70,19 @@ function listContacts(req, res, next){
 }
 
 function deleteContact(req, res, next){
-    
+    contactModel.remove({ _id: req.params.contact_id }, function(error, result){
+      if(error){
+        res.send({
+            'status' : 'error',
+            'message' : 'FAILED TO REMOVE CONTACT'
+        });
+      }else{
+        res.send({
+            'status' : 'success',
+            'message' : 'CONTACT REMOVED SUCCESSFULLY'
+        });
+      }
+    });
 }
 
 module.exports = {

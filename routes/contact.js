@@ -74,7 +74,7 @@ router.get('/contact', function(req, res, next) {
 
 }, contact.listContacts);
 
-router.delete('/contact', function(req, res, next) {
+router.delete('/contact/:contact_id', function(req, res, next) {
 
 	logger.info("Route: Delete Contact");
 	logger.info("Parameters : req.params: " + JSON.stringify(req.params));
