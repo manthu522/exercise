@@ -12,7 +12,7 @@ function createContact(req, res, next){
 
     var contact = new contactModel(req.body);
 
-    contactModel.create(req.body, function (err, contact) {
+    contactModel.save(req.body, function (err, contact) {
       if (err){
         console.log("Error : ",err);
         next(err);
